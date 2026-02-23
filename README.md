@@ -1,2 +1,1 @@
-# demo-backend
 # demo-frontend
